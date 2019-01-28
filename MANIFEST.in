@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include jodit_html_editor *.css
+recursive-include jodit_html_editor *.csv
+recursive-include jodit_html_editor *.html
+recursive-include jodit_html_editor *.ico
+recursive-include jodit_html_editor *.js
+recursive-include jodit_html_editor *.json
+recursive-include jodit_html_editor *.md
+recursive-include jodit_html_editor *.png
+recursive-include jodit_html_editor *.py
+recursive-include jodit_html_editor *.svg
+recursive-include jodit_html_editor *.txt
+recursive-exclude jodit_html_editor *.pyc
