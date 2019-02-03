@@ -76,7 +76,30 @@
    "property": "hidden", 
    "property_type": "Check", 
    "value": "1"
-  }
+  },
+  {
+    "_assign": null, 
+    "_comments": null, 
+    "_liked_by": null, 
+    "_user_tags": null, 
+    "creation": "2019-01-28 20:30:11.361070", 
+    "default_value": null, 
+    "doc_type": "Item", 
+    "docstatus": 0, 
+    "doctype_or_field": "DocType", 
+    "field_name": null, 
+    "idx": 0, 
+    "modified": "2019-01-28 20:30:11.361070", 
+    "modified_by": "Administrator", 
+    "name": "Item-read_only_onload", 
+    "owner": "Administrator", 
+    "parent": null, 
+    "parentfield": null, 
+    "parenttype": null, 
+    "property": "read_only_onload", 
+    "property_type": "Check", 
+    "value": null
+   }
  ], 
  "sync_on_migrate": 1
 }
