@@ -13,13 +13,13 @@ frappe.ui.form.on('Web Form', {
             $('<textarea id="jeditor_webform"></textarea>').appendTo(frm.fields_dict.jodit_editor.wrapper);
             var ele = document.getElementById('jeditor_webform');
             var editor = new Jodit(ele);
-            console.log("onload");
+            
 
             editor.value = frm.doc.introduction_text || "";
             ele.addEventListener('change', function () {
                 frm.set_value("introduction_text", this.value);
             });
         }
-        console.log("onload");
+        
     }
 });
