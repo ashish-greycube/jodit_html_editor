@@ -5,7 +5,11 @@ Replace Quill Text Editor With Jodit HTML Editor on ERPNext Version 11 (only) at
 2. WebForm
 3. Item doctype  > Website Description field
 
+### What it does ?
 
+* Hides Text Editor (Quill) field
+* Creates a new HTML field to render Jodit on doctype UI
+* Ultimately, stores value in hidden TextEditor field
 
 ### Installation Steps
 
@@ -19,6 +23,7 @@ Step 2) to install app on any instance/site
 
 
 ### Screeenshots
+
 #### Jodit HTML Controls
 ![Jodit Controls](https://github.com/ashish-greycube/jodit_html_editor/blob/master/JoditControls.PNG)
 
