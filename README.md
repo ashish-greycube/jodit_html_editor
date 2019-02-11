@@ -11,6 +11,9 @@ Replace Quill Text Editor With Jodit HTML Editor on ERPNext Version 11 (only) at
 * Creates a new HTML field to render Jodit on doctype UI
 * Ultimately, stores value in hidden TextEditor field
 
+### Limitations
+* All Jodit Limitation apply which includes- doesn't support Fontawesome-icons.
+
 ### Installation Steps
 
 Step 1) One time to get app
