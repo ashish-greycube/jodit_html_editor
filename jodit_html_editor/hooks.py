@@ -29,7 +29,9 @@ app_include_js = "/assets/jodit_html_editor/js/jodit.min.js"
 doctype_js = {
     "Item" : "public/js/Item.js",
     "Web Page" : "public/js/web_page.js",
-    "Web Form" : "public/js/web_form.js"
+    "Web Form" : "public/js/web_form.js",
+    "Newsletter" : "public/js/newsletter.js",
+    "Item Group" : "public/js/item_group.js"
     }
 # doctype_list_js = {"doctype" : "public/js/doctype_list.js"}
 # doctype_tree_js = {"doctype" : "public/js/doctype_tree.js"}

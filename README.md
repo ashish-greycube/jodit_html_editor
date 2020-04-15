@@ -1,9 +1,11 @@
 ## Jodit
 
-Replace Quill Text Editor With Jodit HTML Editor on ERPNext Version 11 (only) at 
+Replace Quill Text Editor With Jodit HTML Editor on ERPNext Version 11,12 at 
 1. WebPage 
 2. WebForm
 3. Item doctype  > Website Description field
+4. Newsletter > Message field
+5. Item Group > Content field
 
 ### What it does ?
 
